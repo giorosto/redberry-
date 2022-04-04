@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.custom_arrow_fontsize{
+	font-size: 10px;
+}
+.custom-h-fontsize{
+	font-size: 60px;
+}
+.left-div{
+
+}
+.right-div{
+	background: black;
+}
+.h-100-vh{
+	height: 100vh;
+}
+
+.date {
+	position: relative;
+}
+
+.date img {
+	position: absolute;
+	right: 8px;
+	top: 8px;
+	cursor: pointer;
+}

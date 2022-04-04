@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow: hidden;
+  background: #141617;
+  background-image: url(./images/stars.png);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+h1 {
+  color: #fe3b1f;
+  font-size: 68px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10%;
+  font-family: 'Rowdies';
+  font-weight: 400;
+}
+.button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  font-family: 'Montserrat';
+}
+.question-link {
+  background-color: #fe3b1f;
+  padding: 13px 50px;
+  border-radius: 50px;
+}
+.submitted {
+  text-decoration: underline;
+  margin-top: 20px;
+}
+img {
+  display: block;
+  width: 21%;
+  height: 34.5%;
+  margin: 0 auto;
+}
